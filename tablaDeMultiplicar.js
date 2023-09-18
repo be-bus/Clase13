@@ -11,3 +11,4 @@ function tablaDeMultiplicar() {
 }
 
 tablaDeMultiplicar();
+console.log("Fin de la tabla");
